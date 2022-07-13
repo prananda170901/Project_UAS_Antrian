@@ -10,6 +10,8 @@
 
 ### Penjelasan Pada Youtube
 
+https://youtu.be/uI-s_lroAKs
+
 ### Demo Sistem Antrian
 
 http://prnda.42web.io/
